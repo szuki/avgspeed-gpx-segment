@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Gemini">
+  <trk>
+    <name>Sample Track</name>
+    <trkseg>
+      <trkpt lat="48.123" lon="11.456">
+        <time>2025-11-12T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="48.124" lon="11.457">
+        <time>2025-11-12T10:01:00Z</time>
+      </trkpt>
+      <trkpt lat="48.125" lon="11.458">
+        <time>2025-11-12T10:02:00Z</time>
+      </trkpt>
+      <trkpt lat="48.126" lon="11.459">
+        <time>2025-11-12T10:03:00Z</time>
+      </trkpt>
+      <trkpt lat="48.127" lon="11.460">
+        <time>2025-11-12T10:04:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
